@@ -10,6 +10,16 @@ To showcase a robust, enterprise-level data pipeline, the dataset was ingested, 
 
 ---
 
+### Dashboard Preview
+
+* Figure 1: Credit Card Transaction Report
+  <img width="882" height="499" alt="credit card transaction report" src="https://github.com/user-attachments/assets/840ab7f7-58a4-49ea-8a15-efdc4792a04f" />
+
+* Figure 1: Credit Card Customer Report
+  <img width="875" height="493" alt="credit card customer report" src="https://github.com/user-attachments/assets/639e669c-ea90-4845-a699-a2db9af49b9b" />
+
+---
+
 ## Tech Stack & Architecture
 
 - **Data Source:** Raw CSV files (Transaction & Customer Profile Data).
